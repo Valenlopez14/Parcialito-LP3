@@ -1,0 +1,10 @@
+D:\Escritorio\pry.24.04.23.LP3\bin\Debug\pry.24.04.23.LP3.exe.config
+D:\Escritorio\pry.24.04.23.LP3\bin\Debug\pry.24.04.23.LP3.exe
+D:\Escritorio\pry.24.04.23.LP3\bin\Debug\pry.24.04.23.LP3.pdb
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry.24.04.23.LP3.csproj.AssemblyReference.cache
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry._24._04._23.LP3.frmMinimaMaxima.resources
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry._24._04._23.LP3.Properties.Resources.resources
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry.24.04.23.LP3.csproj.GenerateResource.cache
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry.24.04.23.LP3.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry.24.04.23.LP3.exe
+D:\Escritorio\pry.24.04.23.LP3\obj\Debug\pry.24.04.23.LP3.pdb
